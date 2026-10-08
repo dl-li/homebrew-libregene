@@ -1,6 +1,6 @@
 cask "libregene" do
-  version "0.5.0"
-  sha256 "8de48c6bcdad66ae5c051535757363bcde4cfce080cc65e4aebc550426a28b10"
+  version "0.5.1"
+  sha256 "8fe6ea948bddee7bf9d09162ba7ef63791b64b95c367da0d96f74df340fb15a2"
 
   url "https://github.com/dl-li/LibreGene/releases/download/v#{version}/LibreGene_#{version}_aarch64.dmg"
   name "LibreGene"
